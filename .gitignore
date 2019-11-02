@@ -1,10 +1,10 @@
 # Ignored files
 
 node_modules/
-# plan/
-# reset.css
-# bundle.js
-# .babelrc
-# *.code-workspace
-# *.json
-# *.config.js
+plan/
+reset.css
+bundle.js
+.babelrc
+*.code-workspace
+*.json
+*.config.js
