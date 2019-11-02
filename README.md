@@ -1,5 +1,3 @@
-# random-quote
-
-Random Quote Generator
+# Random Quote Generator
 
 Create a random quote generator using an API call
