@@ -2,9 +2,10 @@
 
 node_modules/
 *.odp
-# reset.css
-# bundle.js
-# .babelrc
+*.pdf
+reset.css
+bundle.js
+.babelrc
 *.code-workspace
-# *.json
-# *.config.js
+*.json
+*.config.js
