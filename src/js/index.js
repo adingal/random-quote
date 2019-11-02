@@ -16,7 +16,7 @@ export const controlQuote = async () => {
       
       // Render to UI
       $('.quote-wrapper')
-        .slideDown(
+        .fadeIn(
           1500,
           viewQuote.renderQuote(quoteObj.author, quoteObj.quote)
         );
