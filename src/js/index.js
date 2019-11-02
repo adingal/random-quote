@@ -38,7 +38,7 @@ export const infiniteLoop = async () => {
       infiniteLoop();
     }
 
-  }, 7000);
+  }, 6000);
 };
 
 // initialized
