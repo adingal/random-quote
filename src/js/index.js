@@ -42,12 +42,5 @@ export const infiniteLoop = async () => {
 };
 
 // initialized
-$(function () {
-  $('div.wrapper')
-    .hide()
-    .delay(500)
-    .fadeIn(600);
-});
-
 viewQuote.renderYear();
 infiniteLoop();

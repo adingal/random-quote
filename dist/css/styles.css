@@ -1,3 +1,5 @@
+@import 'reset.css';
+
 html {
   background-color: #000;
   font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
@@ -23,9 +25,10 @@ h1 {
   margin-bottom: 7px;
 }
 
+
 /*****************************
-        wrappers
-******************************/
+*   wrapper
+*/
 .wrapper {
   display: flex;
   flex-flow: row wrap;
@@ -65,8 +68,8 @@ h1 {
 
 
 /*****************************
-   copyright & created-by
-******************************/
+*   footer
+*/
 .wrapper > p {
   align-self: center;
   background-color: #d7666b;
@@ -89,9 +92,10 @@ p.created-by {
   color: #FFFFFF;
 }
 
+
 /*****************************
-        media queries
-******************************/
+*   media queries
+*/
 @media (min-width: 480px) {
   .wrapper {
     padding: 10px 14px 5px 14px;
