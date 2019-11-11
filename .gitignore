@@ -2,10 +2,17 @@
 
 node_modules/
 *.odp
+<<<<<<< HEAD
 *.pdf
+=======
+>>>>>>> 872ae83266734008b8adfc2f63696ff88eef8da0
 reset.css
 bundle.js
 .babelrc
 *.code-workspace
 *.json
+<<<<<<< HEAD
 *.config.js
+=======
+*.config.js
+>>>>>>> 872ae83266734008b8adfc2f63696ff88eef8da0
